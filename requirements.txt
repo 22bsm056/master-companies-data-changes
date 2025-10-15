@@ -1,0 +1,40 @@
+# Core Dependencies
+python-dotenv
+pandas
+numpy
+
+# API & Web
+flask
+requests
+aiohttp
+
+# Database
+mysql-connector-python
+sqlalchemy
+
+# AI & ML
+google-generativeai
+langchain
+langchain-google-genai
+langgraph
+chromadb
+sentence-transformers
+faiss-cpu
+
+# Dashboard
+streamlit
+plotly
+altair
+
+# Scheduling
+schedule
+apscheduler
+
+# Utilities
+python-dateutil
+pytz
+tqdm
+
+# Testing
+pytest
+pytest-asyncio
